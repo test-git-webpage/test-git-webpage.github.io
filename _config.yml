@@ -1,0 +1,17 @@
+title: A mini test website
+email: jean.feydy@inria.fr
+description: >- # this means to ignore newlines until "baseurl:"
+  A minimal test.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "test-git-webpage.github.io"
+github_username:  test-git-webpage
+
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+
+name: A minimal test.
+
+exclude:
+  - tmp/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
